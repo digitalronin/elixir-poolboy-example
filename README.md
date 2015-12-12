@@ -1,19 +1,4 @@
-# PoolboyExample
+# Elixir Poolboy Example
 
-**TODO: Add description**
+This is the code to accompany [this blog post](https://digitalronin.github.io/2015/12/12/elixir-worker-pooling-with-poolboy/)
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
-
-  1. Add poolboy_example to your list of dependencies in `mix.exs`:
-
-        def deps do
-          [{:poolboy_example, "~> 0.0.1"}]
-        end
-
-  2. Ensure poolboy_example is started before your application:
-
-        def application do
-          [applications: [:poolboy_example]]
-        end
